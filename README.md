@@ -10,8 +10,7 @@ Official release downloads for **MyLocalBackup** — a high-performance, version
 
 ## Recent Releases
 
-| Version | Highlights |
-|---------|------------|
+| **v1.2.94** | Tray/taskbar icon fix and runtime icon reliability improvements |
 | **v1.2.41** | Footer hover fix, License badge visibility fix |
 | **v1.2.40** | Dark mode fixes for Backup History & License windows |
 | **v1.2.39** | Dark Mode UI, dynamic theming, stability fixes |
