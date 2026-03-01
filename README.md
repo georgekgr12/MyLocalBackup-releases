@@ -2,7 +2,7 @@
 
 Official release downloads for **MyLocalBackup** — a high-performance, versioned local backup system for Windows.
 
-## Download Latest (v1.2.41)
+## Download Latest (v1.2.94)
 
 [![Download MSI](https://img.shields.io/badge/Download-MyLocalBackup_Setup.msi-blue?style=for-the-badge&logo=windows)](https://github.com/georgekgr12/MyLocalBackup-releases/releases/latest/download/MyLocalBackupSetup.msi)
 
